@@ -14,14 +14,20 @@ This Flutter application converts temperatures from either Fahrenheit to Celsius
 
 **The app Convert Fahrenheit to Celsius and displays the value in one decimal place and is accessible for various screens**
 
+
 ![Screenshot (12)](https://github.com/user-attachments/assets/566c622f-4041-4e23-9621-4d5afef65fbf)
 
-** The conversations appear under the history section
+**The conversations appear under the history section**
+
+
 ![Screenshot (13)](https://github.com/user-attachments/assets/efcf6b7c-b6a4-483a-b3ed-4b82aaf662d7)
 
-** The conversation under the history section can be scrolled to see the previous conversation and most recent ones listed at the top
+**The conversation under the history section can be scrolled to see the previous conversation and most recent ones listed at the top**
+
 
 ![Screenshot 2024-07-14 155117](https://github.com/user-attachments/assets/5dcf29cd-573b-4de2-8986-5e949a4962f4)
+
+
 
 ## Installation
 
@@ -51,7 +57,8 @@ flutter run
 ## Video Demo
 
 Watch the demo of the Temperature Conversion App
-[![Watch the video]]
+[Watch the video](https://github.com/user-attachments/assets/76f78ce0-92c1-40f2-92ab-9eb1a9c35e57)
+
 
 
 ## Author
