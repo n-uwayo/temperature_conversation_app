@@ -48,7 +48,7 @@ Watch the demo of the Temperature Conversion App
 Noella UWAYO 
 
 ### GitHub
-[n-uwayo] ( https://github.com/n-uwayo)
+[n-uwayo]( https://github.com/n-uwayo)
 
 ## License
 
