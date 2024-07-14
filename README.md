@@ -34,13 +34,21 @@ flutter run
 
 1. Select the conversion type (Fahrenheit to Celsius or Celsius to Fahrenheit).
 2. Enter the temperature value to convert.
-3. Press the "Convert" button for converting and display value.
+3. Press the "Convert" button to convert and display the value.
 4. The history of conversions will be displayed below.
 
 ## Video Demo
 
 Watch the demo of the Temperature Conversion App
 [![Watch the video]]
+
+
+## Author
+
+Noella UWAYO 
+
+### GitHub
+[n-uwayo] ( https://github.com/n-uwayo)
 
 ## License
 
